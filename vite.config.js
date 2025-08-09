@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/hexschool-2025course/',
+  base: '/vue-week2/',
   plugins: [
     vue(),
     vueDevTools(),
